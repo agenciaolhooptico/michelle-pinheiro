@@ -1,0 +1,7 @@
+{
+  "name": "michelle-pinheiro-clinic",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "build": "node scripts/build.mjs", "start": "node scripts/serve.mjs" },
+  "description": "Site institucional da Michelle Pinheiro Clinic — GitHub Pages"
+}
