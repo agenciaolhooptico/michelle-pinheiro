@@ -23,4 +23,10 @@ Dourado, off-white e palha. Cantos arredondados, tipografia grande e fades suave
 
 ## Publicação
 
+## Revisão de legibilidade e conversão
+
+Ajustes aplicados conforme PDF de alterações enviado pelo usuário: título em duas linhas controladas, assinatura dentro do banner, fade contínuo para o fundo, fontes maiores, grid compacto com seis cards de dourado mais preenchido, espaçamentos menores, CTAs adicionais e botão fixo de agendamento. Setas textuais substituídas integralmente por SVG para evitar renderização como emoji no iPhone.
+
+Em telas estreitas os cards exibem título e ações; os detalhes completos continuam acessíveis em “Saiba mais”.
+
 https://agenciaolhooptico.github.io/michelle-pinheiro/
